@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Notes</string>
+    <string name="remember_hint">Remember:</string>
+</resources>
